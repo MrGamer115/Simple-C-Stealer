@@ -1,0 +1,17 @@
+C:\Users\Eduard\Desktop\C#\InfoStealer\bin\Release\net8.0\InfoStealer.exe
+C:\Users\Eduard\Desktop\C#\InfoStealer\bin\Release\net8.0\InfoStealer.deps.json
+C:\Users\Eduard\Desktop\C#\InfoStealer\bin\Release\net8.0\InfoStealer.runtimeconfig.json
+C:\Users\Eduard\Desktop\C#\InfoStealer\bin\Release\net8.0\InfoStealer.dll
+C:\Users\Eduard\Desktop\C#\InfoStealer\bin\Release\net8.0\InfoStealer.pdb
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.AssemblyInfoInputs.cache
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.AssemblyInfo.cs
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.csproj.CoreCompileInputs.cache
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.dll
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\refint\InfoStealer.dll
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.pdb
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.genruntimeconfig.cache
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\ref\InfoStealer.dll
+C:\Users\Eduard\Desktop\C#\InfoStealer\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStealer.csproj.AssemblyReference.cache
+C:\Users\Eduard\Desktop\C#\InfoStealer\obj\Release\net8.0\InfoStea.183B1CD3.Up2Date
